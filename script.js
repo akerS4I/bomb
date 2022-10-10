@@ -18,8 +18,8 @@ btn.forEach((btn) => {
 });
 
 delBtn.addEventListener("click", () => {
-  if(notWork){}
-  else if {
+  if(notWork){
+  } else {
   arr.pop();
   display.innerHTML = `${arr.join("")}`;
 }
